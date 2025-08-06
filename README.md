@@ -9,15 +9,6 @@
 
 **Advanced AI Content Processing Pipeline** specialized for **Philippines casino market** with multi-site deployment capabilities.
 
-- ✅ Đọc prompt từ Google Sheets
-- 🤖 Sinh content tự động với AI (OpenAI GPT/Google Gemini)
-- 🎨 Tự động tạo ảnh cover bằng AI
-- 📤 Đăng bài lên WordPress qua REST API
-- 🏷️ Tự động tạo meta SEO (title, description)
-- 📊 Ghi log trạng thái vào Google Sheets
-- ⚡ Xử lý batch nhiều bài đồng thời
-- 🔄 Có thể chạy theo lịch
-
 ## 📋 Yêu cầu hệ thống
 
 - Windows 10/11
